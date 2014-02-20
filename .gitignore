@@ -8,6 +8,7 @@
 .settings
 .scala_dependencies
 .worksheet
+.idea
 target/
 *.swp
 *.swo
